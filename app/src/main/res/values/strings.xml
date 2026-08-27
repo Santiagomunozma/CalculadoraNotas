@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de notas</string>
+
+    <string name="titulo">Calificaciones del curso</string>
+    <string name="descripcion">Registre varios estudiantes con sus tres calificaciones</string>
+
+    <string name="nombre">Nombre del estudiante</string>
+    <string name="nota_1">Primera calificación</string>
+    <string name="nota_2">Segunda calificación</string>
+    <string name="nota_3">Tercera calificación</string>
+    <string name="rango_notas">Valor permitido: 0.0 a 5.0</string>
+
+    <string name="agregar_estudiante">Agregar estudiante</string>
+    <string name="limpiar_formulario">Limpiar formulario</string>
+    <string name="eliminar_estudiante">Eliminar</string>
+
+    <string name="buscar_estudiante">Buscar por nombre</string>
+    <string name="ordenar_por">Ordenar por</string>
+    <string name="ordenar_nombre">Nombre</string>
+    <string name="ordenar_promedio">Promedio</string>
+
+    <string name="resumen_curso">Resumen del curso</string>
+    <string name="total_estudiantes">Total de estudiantes</string>
+    <string name="aprobados">Aprobados</string>
+    <string name="reprobados">Reprobados</string>
+    <string name="promedio_grupo">Promedio general</string>
+    <string name="mejor_estudiante">Mejor promedio</string>
+    <string name="sin_datos">—</string>
+    <string name="lista_estudiantes">Estudiantes</string>
+    <string name="lista_vacia">No hay estudiantes registrados</string>
+    <string name="sin_coincidencias">No hay coincidencias para la búsqueda</string>
+
+    <string name="resultado">Resultado académico</string>
+    <string name="estudiante">Estudiante</string>
+    <string name="calificaciones">Calificaciones</string>
+    <string name="promedio">Promedio</string>
+</resources>

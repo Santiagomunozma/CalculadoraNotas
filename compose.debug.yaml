@@ -1,0 +1,6 @@
+services:
+  calculadoranotas:
+    image: calculadoranotas
+    build:
+      context: .
+      dockerfile: ./Dockerfile
